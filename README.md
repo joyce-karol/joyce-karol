@@ -1,7 +1,7 @@
 - Hi, I’m Joyce
 - Biomedical undergraduate 
-- I’m working in RNA-Seq 
 - Scientific initiation scholar of Fiocruz - BA
+- I’m working in analysis RNA-Seq 
 
 <!---
 joyce-karol/joyce-karol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
