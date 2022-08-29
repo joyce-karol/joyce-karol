@@ -1,7 +1,6 @@
 - Hi, I’m Joyce
-- Biomedical undergraduate 
-- Scientific initiation scholar of Fiocruz - BA
-- I’m working in RNA-Seq analysis
+- Biomedical
+-  master's degree in Fiocruz - BA
 
 <!---
 joyce-karol/joyce-karol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
