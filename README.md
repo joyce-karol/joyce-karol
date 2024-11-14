@@ -1,6 +1,6 @@
-- Hi, I’m Joyce
-- Biomedical
--  master's in Fiocruz - BA
+Hi, I'm Joy
+- Biomedical from the Bahiana School of Medicine and Public Health - Bahia
+- Master in experimental pathology
 
 <!---
 joyce-karol/joyce-karol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
