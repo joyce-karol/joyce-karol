@@ -1,6 +1,6 @@
 - Hi, I’m Joyce
 - Biomedical
--  master's degree in Fiocruz - BA
+-  master's in Fiocruz - BA
 
 <!---
 joyce-karol/joyce-karol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
