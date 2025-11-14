@@ -1,6 +1,9 @@
-Hi, I'm Joy
-- Biomedical from the Bahiana School of Medicine and Public Health - Bahia
-- Master in experimental pathology
+Hi, my name is Joy, I am an artist and also:
+- Biomedical Scientist, Bahiana School of Medicine and Public Health, Bahia
+- Master's degree in Experimental Pathology
+- PhD student in Health Sciences
+
+I work with computational analysis of biological data related to human pathogens.
 
 <!---
 joyce-karol/joyce-karol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
