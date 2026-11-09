@@ -17,5 +17,3 @@ I also work in the educational initiatives to make science more accessible throu
 ## Let's connect
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joyce-karoline-ab832a176/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/callme_.joy/)
-
-(<img src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white/>)
